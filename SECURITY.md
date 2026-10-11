@@ -1,4 +1,4 @@
-# Security Policy · Política de seguridad
+# Security Policy
 
 🇬🇧 [English](#english) · 🇪🇸 [Español](#español)
 
